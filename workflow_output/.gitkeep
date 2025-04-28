@@ -1,0 +1,2 @@
+# This file ensures the workflow_output directory is included in git
+# without including its contents, which may contain sensitive data. 
