@@ -138,3 +138,14 @@ Contributions, ideas, and feedback are welcome! Feel free to open an issue or su
 ---
 
 *Built with ❤️ for content creators and digital marketers* 
+
+## Engineering Quality Gate
+```bash
+ruff check .
+black --check .
+pytest -q
+```
+
+## Team Handoff
+- `docs/DEPLOY_RUNBOOK.md`
+- `docs/HANDOFF_CHECKLIST.md`
